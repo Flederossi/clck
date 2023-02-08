@@ -34,5 +34,7 @@ gcc src/main.c -o bin/clck -I src/include/
 To customize clck you can change the parameters of the [config.h](https://github.com/Flederossi/clck/blob/main/src/include/config.h) file to your needs and then recompile the project. Now your changes should be applied. There are comments on each customizable parameter in the configuration file.
 
 ### Examples
-![Alt Text](https://github.com/Flederossi/clck/blob/main/assets/screen-2.png)
+> - Different font, color and time format to default configuration
+> ![Alt Text](https://github.com/Flederossi/clck/blob/main/assets/screen-2.png)
+> - Different color and pixel character to default configuration
 ![Alt Text](https://github.com/Flederossi/clck/blob/main/assets/screen-3.png)
