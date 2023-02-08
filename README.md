@@ -36,5 +36,6 @@ To customize clck you can change the parameters of the [config.h](https://github
 ### Examples
 > - Different font, color and time format to default configuration
 > ![Alt Text](https://github.com/Flederossi/clck/blob/main/assets/screen-2.png)
+
 > - Different color and pixel character to default configuration
 ![Alt Text](https://github.com/Flederossi/clck/blob/main/assets/screen-3.png)
