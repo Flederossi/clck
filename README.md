@@ -29,7 +29,7 @@ gcc src/main.c -o bin/clck -I src/include/
 ```
 ./bin/clck
 ```
-> *Note: If you want to run clck everywhere on your system you should add the binary to your PATH. Otherwise you have to specify the path to the binary every time you want to use it from somewhere else or another program.*
+> *Note: If you want to run clck everywhere on your system you should add the binary to your PATH. Otherwise you have to specify the path to the binary every time you want to use it from somewhere else like another program.*
 
 ## Customization
 
