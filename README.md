@@ -25,7 +25,7 @@ gcc src/main.c -o bin/clck -I src/include/
 ```
 ./bin/clck
 ```
-> *Note: If you want to run clck everywhere on your system you should add the binary to your PATH*
+> *Note: If you want to run clck everywhere on your system you should add the binary to your PATH. Otherwise you have to specify the path to the binary everytime you want to use it from somewhere else or another program.*
 
 ## Customization
 To customize clck you can change the parameters of the config.h file in src/include/ to your needs and then recompile the project. Now your changes should be applied. There are comments on each customizable parameter in the configuration file.
