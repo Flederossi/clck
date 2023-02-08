@@ -39,3 +39,5 @@ To customize clck you can change the parameters of the [config.h](https://github
 
 > - Different color, pixel character and space size to default configuration:
 > ![Alt Text](https://github.com/Flederossi/clck/blob/main/assets/screen-3.png)
+
+*Note: This are just examples with some tiny changes. You can customize clck in the way you want. It even supports more detailed fonts as well as the usage of any unicode character and hex color.*
