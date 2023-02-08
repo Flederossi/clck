@@ -5,12 +5,12 @@ A minimal designed clock to make your Linux or Mac terminal look pretty. It is h
 ### Compile
 > There are three ways to compile the project:
 
-- Use Make:
+- Use make:
 ```
 make build
 ```
 
-- Use Fare:
+- Use fare:
 ```
 fare build
 ```
