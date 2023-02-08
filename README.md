@@ -1,6 +1,8 @@
 # clck
 A minimal designed clock to make your Linux or Mac terminal look pretty. It is highly customizable through the [config.h](https://github.com/Flederossi/clck/blob/main/src/include/config.h) file which lets you change the parameters of font, color, time format as well as size and offset (to cover a few) of your clock. You can use it as temporary time indicator or even your main system clock in a tiling window manager.
 
+*Note: clck currently supports only macOS and Linux, but a Windows port may be added in the future*
+
 ![Alt Text](https://github.com/Flederossi/clck/blob/main/assets/screen-1.png)
 
 ## Installation
