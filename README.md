@@ -4,23 +4,24 @@ A minimal designed clock to make your Linux or Mac terminal look pretty. It is h
 ## Installation
 ### Compile
 > There are three ways to compile the project:
----
+
 - Use Make:
 ```
 make build
 ```
----
+
 - Use Fare:
 ```
 fare build
 ```
----
+
 - Use plain gcc:
 ```
 gcc src/main.c -o bin/clck -I src/include/
 ```
+---
 ### Run
-To run clck after compilation you can use:
+> To run clck after compilation you can use:
 ```
 ./bin/clck
 ```
