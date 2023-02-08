@@ -2,7 +2,9 @@
 A minimal designed clock to make your Linux or Mac terminal look pretty. It is highly customizable through the [config.h](https://github.com/Flederossi/clck/blob/main/src/include/config.h) file which lets you change font, color, time format as well as size and offset of your clock. You can use it as temporary time indicator or your main system clock in a tiling window manager.
 
 ## Showcase
-
+![Alt Text](https://github.com/Flederossi/miwx/blob/main/assets/terminal.png)
+![Alt Text](https://github.com/Flederossi/miwx/blob/main/assets/terminal.png)
+![Alt Text](https://github.com/Flederossi/miwx/blob/main/assets/terminal.png)
 
 ## Installation
 ### Compile
