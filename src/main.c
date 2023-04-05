@@ -5,6 +5,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <termios.h>
+#include <signal.h>
 
 #include "include/config.h"
 
